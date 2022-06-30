@@ -8,5 +8,4 @@ public class SuperAxeItem extends CustomAxeToolItem {
     public SuperAxeItem() {
         super(50, 5000, 5, 500, 100, 50, 1);
     }
-
 }

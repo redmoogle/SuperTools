@@ -8,5 +8,4 @@ public class SuperSwordItem extends CustomSwordToolItem {
     public SuperSwordItem() {
         super(50, 500, 100, 25, 1);
     }
-
 }
