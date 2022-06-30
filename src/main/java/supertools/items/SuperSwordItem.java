@@ -1,14 +1,12 @@
-package examplemod.examples;
+package supertools.items;
 
 import necesse.inventory.item.toolItem.swordToolItem.CustomSwordToolItem;
 
 // Extends CustomSwordToolItem
-public class ExampleSwordItem extends CustomSwordToolItem {
-
+public class SuperSwordItem extends CustomSwordToolItem {
     // Weapon attack textures are loaded from resources/player/weapons/<itemStringID>
-
-    public ExampleSwordItem() {
-        super(Rarity.UNCOMMON, 300, 20, 120, 100, 400);
+    public SuperSwordItem() {
+        super(50, 500, 100, 25, 1);
     }
 
 }
