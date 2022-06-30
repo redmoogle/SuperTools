@@ -1,3 +1,6 @@
-An example mod for Necesse.
+Overpowered tools to have fun with, all cost 1 wood
 
-Check out the [modding wiki page](https://necessewiki.com/Modding) for more.
+Currently only 3 items are implemented
+ - Pickaxe
+ - Axe
+ - Sword
