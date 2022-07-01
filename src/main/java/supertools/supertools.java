@@ -47,6 +47,14 @@ public class supertools {
                         new Ingredient("anylog", 1)
                 }
         ));
+        Recipes.registerModRecipe(new Recipe(
+                "supershovel",
+                1,
+                RecipeTechRegistry.NONE,
+                new Ingredient[]{
+                        new Ingredient("anylog", 1)
+                }
+        ));
     }
 
 }
