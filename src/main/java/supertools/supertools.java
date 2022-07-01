@@ -27,33 +27,25 @@ public class supertools {
                 "supersword",
                 1,
                 RecipeTechRegistry.NONE,
-                new Ingredient[]{
-                        new Ingredient("anylog", 1)
-                }
+                new Ingredient[]{ }
         ));
         Recipes.registerModRecipe(new Recipe(
                 "superpick",
                 1,
                 RecipeTechRegistry.NONE,
-                new Ingredient[]{
-                        new Ingredient("anylog", 1)
-                }
+                new Ingredient[]{ }
         ));
         Recipes.registerModRecipe(new Recipe(
                 "superaxe",
                 1,
                 RecipeTechRegistry.NONE,
-                new Ingredient[]{
-                        new Ingredient("anylog", 1)
-                }
+                new Ingredient[]{ }
         ));
         Recipes.registerModRecipe(new Recipe(
                 "supershovel",
                 1,
                 RecipeTechRegistry.NONE,
-                new Ingredient[]{
-                        new Ingredient("anylog", 1)
-                }
+                new Ingredient[]{ }
         ));
     }
 
