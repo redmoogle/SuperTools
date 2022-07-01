@@ -4,3 +4,4 @@ Currently only 3 items are implemented
  - Pickaxe
  - Axe
  - Sword
+ - Super Shovel
